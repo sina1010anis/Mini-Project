@@ -12,6 +12,7 @@
             <div class="header-right">
               <a class="active" href="/">Home</a>
               <a href="{{ route('link_cat') }}">Cating Link</a>
+              <a href="{{ route('scraper_view') }}">Scraper Web</a>
             </div>
           </div>
     </body>
